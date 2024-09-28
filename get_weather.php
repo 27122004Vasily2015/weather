@@ -1,5 +1,5 @@
 <?php
-$apiKey = "457880b13ecc6f44c62ac42ce3c39ec3";
+$apiKey = "f7e08576e54dcec853912b2d0002ae30";
 
 function getWeather($cityId) {
     global $apiKey;
